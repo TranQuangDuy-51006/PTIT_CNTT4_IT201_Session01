@@ -21,3 +21,6 @@ int main(void) {
     printf("phan tu xuat hien nhieu nhat trong mang la %d ( %d lan)", num, maxCount);
     return 0;
 }
+
+
+// do phuc tap thoi gian O(n^2), do phuc tap khong gian O(1)
