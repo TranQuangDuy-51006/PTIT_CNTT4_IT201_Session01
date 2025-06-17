@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/IT04/ss1/PTIT_CNTT4_IT201_Session01_Bai8/cmake-build-debug/CMakeFiles/PTIT_CNTT4_IT201_Session01_Bai8.dir
+C:/Users/Admin/Desktop/IT04/ss1/PTIT_CNTT4_IT201_Session01_Bai8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/IT04/ss1/PTIT_CNTT4_IT201_Session01_Bai8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
